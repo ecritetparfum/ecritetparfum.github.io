@@ -34070,7 +34070,7 @@ A.q1.prototype={
 K(a){var s=null,r=A.a6y(this.c)
 return new A.ri(new A.od(r,new A.GB(s,s,1/0,56),s),this.d,s)}}
 A.m5.prototype={
-K(a){return new A.q1("GLB Rendering",new A.qe("assets/image/Astronaut.glb","A 3D model of an astronaut",!0,null),null)}}
+K(a){return new A.q1("GLB Rendering",new A.qe("assets/assets/image/Astronaut.glb","A 3D model of an astronaut",!0,null),null)}}
 A.yC.prototype={
 K(a){var s=null
 return new A.q1("Ecrit et Parfum Test",new A.fL(B.hN,A.acf(A.b([new A.xT(new A.Oo(a),s,s,s,s,B.G,s,!1,s,A.a6y("GLB 3D Rendering"),s)],t.nA),B.e8,B.Af),s),s)}}
